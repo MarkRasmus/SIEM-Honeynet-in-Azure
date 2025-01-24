@@ -25,7 +25,7 @@ The architecture of the mini honeynet in Azure consists of the following compone
 ## Attack Maps Before Hardening / Security Controls
 ![image](https://github.com/user-attachments/assets/04d8f1a2-0aa4-4dde-ba94-5f51a28f8956)
 <br><br>
-![image](![image](https://github.com/user-attachments/assets/72ac0be6-8582-4fdc-aa27-16528475a972)
+![image](![image](![image](https://github.com/user-attachments/assets/f673e734-5dea-4e6f-80fa-f7e70b101750)
 <br><br>
 ![image](https://github.com/user-attachments/assets/44be774c-ff93-4f96-beb6-294f928eba94)
 <br><br>
